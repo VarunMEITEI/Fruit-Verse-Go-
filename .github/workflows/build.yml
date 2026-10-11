@@ -1,5 +1,5 @@
 
-name: Build Collects Go APK
+name: Fruit Verse Go APK
 
 on:
   push:
